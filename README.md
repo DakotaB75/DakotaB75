@@ -7,7 +7,7 @@
 ---
 
 > *I connected mine through my mentor, **M.A.**
->Now, I'm following his path.*
+> Now, I'm following his path.*
 
 ---
 
