@@ -1,5 +1,4 @@
-## Dakota Bazan <img src="https://tenor.com/tm7e0l6cXqu.gif" width="30" alt="Corazón púrpura animado" />
-
+## Dakota Bazan <img src="https://media.tenor.com/37z2yIxmsegAAAAj/purple-heart.gif" width="30" alt="Corazón púrpura animado" />
 
 > “You can't connect the dots looking forward;  
 > you can only connect them looking backward.”  
