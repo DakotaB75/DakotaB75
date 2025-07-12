@@ -1,4 +1,5 @@
-## Dakota Bazan ![Corazón púrpura animado](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxheXpnbDhuNXQ5ZmdxMGVkcjhha3o2NzFtYWl2cXJvcjA0ZG82NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DxJxiRFLjAn8kqiWdd/giphy.gif)
+## Dakota Bazan <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxheXpnbDhuNXQ5ZmdxMGVkcjhha3o2NzFtYWl2cXJvcjA0ZG82NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DxJxiRFLjAn8kqiWdd/giphy.gif" width="30" alt="Corazón púrpura animado" />
+
 
 
 > “You can't connect the dots looking forward;  
