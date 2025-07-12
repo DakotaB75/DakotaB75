@@ -6,8 +6,8 @@
 
 ---
 
-> *I connected mine through my mentor, **M. A.**  
-> Now, I walk his path.*
+> *I connected mine through my mentor, **M.A.**
+>Now, I'm following his path.*
 
 ---
 
