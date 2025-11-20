@@ -17,64 +17,122 @@ Actualmente también desempeño un rol de **guía y mentora para estudiantes de 
 Mi enfoque combina **UX Research**, **Frontend Architecture**, **UI Design**, y conocimientos en **Cloud Computing**.
 
 ---
-
 ## 🛠 Tech Stack & Expertise
 
 ### **Frontend Development**
 <div align="center">
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7A12F6?logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/8.png" width="160" alt="React"/><br>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/12.png" width="160" alt="Tailwind"/><br>
+      <sub><b>Tailwind CSS</b></sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/3.png" width="160" alt="JavaScript"/><br>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/11.png" width="160" alt="Bootstrap"/><br>
+      <sub><b>Bootstrap</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 ### **Backend & Programming**
 <div align="center">
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/1.png" width="160" alt="PHP"/><br>
+      <sub><b>PHP</b></sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/5.png" width="160" alt="Java"/><br>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/2.png" width="160" alt="Python"/><br>
+      <sub><b>Python</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
+
+---
 
 ### **Databases**
 <div align="center">
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/14.png" width="160" alt="MySQL"/><br>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/15.png" width="160" alt="PostgreSQL"/><br>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
+
+---
 
 ### **Version Control & Tools**
 <div align="center">
 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-2088FF?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/16.png" width="160" alt="Git"/><br>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/17.png" width="160" alt="GitHub"/><br>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/18.png" width="160" alt="GitHub Desktop"/><br>
+      <sub><b>GitHub Desktop</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
-
 ## ☁️ AWS Cloud Certifications (PDF Ready)
-
-> 📌 Subí tus PDFs o imágenes al repo y reemplazá `URL_AQUI_...` con su URL interna.
 
 <div align="center">
 
+---
+
 ### **AWS Cloud Essentials**
-[📄 Descargar PDF](URL_AQUI_PDF_ESSENTIALS)  
-[<img src="URL_AQUI_IMG_ESSENTIALS" width="180">](https://www.credly.com/badges/42ef0e90-a335-4ffa-b760-a8469091e303/public_url)
+[📄 Descargar PDF](https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/DevOps_Avanzado.pdf)
 
 ---
 
-### **AWS Serverless**
-[📄 Descargar PDF](URL_AQUI_PDF_SERVERLESS)  
-[<img src="URL_AQUI_IMG_SERVERLESS" width="180">](https://www.credly.com/badges/70111ecd-f762-4e01-8bb6-3939bddec46b/public_url)
+### **AWS IAM – Identity & Access Management**
+[📄 Descargar PDF](https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/IAM%20AWS.pdf)
+
+---
+
+### **Building Language Models on AWS (Serverless & AI)**
+[📄 Descargar PDF](https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/Modelo_AWS.pdf)
+
+---
 
 </div>
 
@@ -90,15 +148,33 @@ Mi enfoque combina **UX Research**, **Frontend Architecture**, **UI Design**, y 
 
 ---
 
-## 🎓 Certifications Summary
+## 🎓 Oficial Badges AWS
 
-- **AWS Cloud Essentials**  
-  Foundational cloud concepts, architecture, shared responsibility, pricing, and cloud readiness.  
-  **[View Certificate](https://www.credly.com/badges/42ef0e90-a335-4ffa-b760-a8469091e303/public_url)**
+<div align="center">
 
-- **AWS Serverless**  
-  AWS Lambda, API Gateway, DynamoDB, event-driven architectures, and cloud-native design.  
-  **[View Certificate](https://www.credly.com/badges/70111ecd-f762-4e01-8bb6-3939bddec46b/public_url)**
+<table>
+  <tr>
+    <td align="center" width="300">
+      <img src="https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/badge1.png" width="180" 
+      style="border-radius: 12px; box-shadow: 0 0 12px rgba(138, 43, 226, 0.6);" alt="AWS Cloud Essentials"/>
+      <br><br>
+      <b>AWS Cloud Essentials</b><br>
+      <sub>Foundational cloud concepts, architecture, shared responsibility, pricing, and readiness.</sub><br><br>
+      <a href="https://www.credly.com/badges/42ef0e90-a335-4ffa-b760-a8469091e303/public_url"><b>View Certificate</b></a>
+    </td>
+
+    <td align="center" width="300">
+      <img src="https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/badge2.png" width="180" 
+      style="border-radius: 12px; box-shadow: 0 0 12px rgba(138, 43, 226, 0.6);" alt="AWS Serverless"/>
+      <br><br>
+      <b>AWS Serverless</b><br>
+      <sub>AWS Lambda, API Gateway, DynamoDB, event-driven architectures & cloud-native design.</sub><br><br>
+      <a href="https://www.credly.com/badges/70111ecd-f762-4e01-8bb6-3939bddec46b/public_url"><b>View Certificate</b></a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -110,17 +186,61 @@ Mi enfoque combina **UX Research**, **Frontend Architecture**, **UI Design**, y 
 - Convertirme en un **referente en frontend, UX y Cloud** dentro de la comunidad  
 
 ---
-
 ## 📬 Let's Connect
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
 
-📌 **LinkedIn:**  
-https://www.linkedin.com/in/dakota-bazan-a89a25312/
+<a href="https://www.linkedin.com/in/dakota-bazan-a89a25312/" target="_blank" 
+style="
+  display:inline-block;
+  padding:12px 22px;
+  margin:8px;
+  background:#1f2937;
+  color:#ffffff;
+  font-weight:600;
+  border-radius:10px;
+  text-decoration:none;
+  border:1px solid #4b5563;
+  transition:0.3s;
+">
+🔗 LinkedIn
+</a>
 
-🌐 **Portfolio:**  
-https://dakotab75.github.io/MiPortafolioAWS/
+<a href="https://dakotab75.github.io/MiPortafolioAWS/" target="_blank" 
+style="
+  display:inline-block;
+  padding:12px 22px;
+  margin:8px;
+  background:#1f2937;
+  color:#ffffff;
+  font-weight:600;
+  border-radius:10px;
+  text-decoration:none;
+  border:1px solid #4b5563;
+  transition:0.3s;
+">
+🌐 Portfolio
+</a>
 
-💬 Available for collaborations in **frontend**, **cloud**, **UX**, and **product design**.
+<a href="mailto:dakotabazan75@gmail.com"
+style="
+  display:inline-block;
+  padding:12px 22px;
+  margin:8px;
+  background:#1f2937;
+  color:#ffffff;
+  font-weight:600;
+  border-radius:10px;
+  text-decoration:none;
+  border:1px solid #4b5563;
+  transition:0.3s;
+">
+📧 Email Me
+</a>
+
+<p style="color:#d1d5db; margin-top:15px;">
+💬 Open to collaborations in <b>Frontend</b>, <b>Cloud</b>, <b>UX</b> and <b>Product Design</b>.
+</p>
 
 </div>
+
