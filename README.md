@@ -193,13 +193,12 @@ My approach combines UX Research, Frontend Architecture, UI Design, and knowledg
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23A21CAF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakota-bazan-a89a25312/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%237256F1?style=for-the-badge&logo=vercel&logoColor=white)](https://dakotab75.github.io/MiPortafolioAWS/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23A21CAF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakota-bazan-a89a25312/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%237256F1?style=for-the-badge&logo=vercel&logoColor=white)](https://dakotab75.github.io/MiPortafolioAWS/) 
 [![Email](https://img.shields.io/badge/Email%20Me-%23840FFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dakota.amazonwebservices@gmail.com)
 
 </div>
+
 
 
 <p style="color:#d1d5db; margin-top:15px;">
