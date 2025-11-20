@@ -147,7 +147,6 @@ Mi enfoque combina **UX Research**, **Frontend Architecture**, **UI Design**, y 
 </div>
 
 ---
-
 ## 🎓 Oficial Badges AWS
 
 <div align="center">
