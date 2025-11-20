@@ -100,7 +100,7 @@ Mi enfoque combina **UX Research**, **Frontend Architecture**, **UI Design**, y 
       <sub><b>Git</b></sub>
     </td>
     <td align="center" width="200">
-      <img src="https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/17.png" width="160" alt="GitHub"/><br>
+      <img src="https://github.com/DakotaB75/DakotaB75/blob/305401d37e576bf467baef24067387fa14283de8/gitwhite.png" width="160" alt="GitHub"/><br>
       <sub><b>GitHub</b></sub>
     </td>
     <td align="center" width="200">
