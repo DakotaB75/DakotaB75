@@ -10,14 +10,11 @@
 
 ## 🌟 About Me
 
-I'm a **Frontend Developer**, **UX Specialist**, and **AWS Cloud Developer** passionate about crafting clean, usable, and high-quality digital experiences.  
-I combine **UX Research**, **UI Design**, **Frontend Architecture**, and **Cloud Fundamentals** to deliver modern and scalable solutions.
+I'm a **Frontend Developer**, **UX Specialist**, and **AWS Cloud Developer** with a strong passion for building beautiful, functional, and high-quality digital experiences.
 
-✨ Currently improving my skills in:  
-- AWS Serverless  
-- CI/CD & automation  
-- Modern frontend frameworks  
-- UX methodologies & accessibility  
+Actualmente también desempeño un rol de **guía y mentora para estudiantes de Teclab**, ayudando a futuros desarrolladores a crecer, mejorar y construir proyectos sólidos con visión profesional.
+
+Mi enfoque combina **UX Research**, **Frontend Architecture**, **UI Design**, y conocimientos en **Cloud Computing**.
 
 ---
 
@@ -27,7 +24,7 @@ I combine **UX Research**, **UI Design**, **Frontend Architecture**, and **Cloud
 <div align="center">
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7A12F6?logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -63,19 +60,23 @@ I combine **UX Research**, **UI Design**, **Frontend Architecture**, and **Cloud
 
 ---
 
-## ☁️ AWS Cloud Certifications
+## ☁️ AWS Cloud Certifications (PDF Ready)
+
+> 📌 Subí tus PDFs o imágenes al repo y reemplazá `URL_AQUI_...` con su URL interna.
 
 <div align="center">
 
 ### **AWS Cloud Essentials**
-[<img src="URL_AQUI_AWS_ESSENTIALS" width="180">](https://www.credly.com/badges/42ef0e90-a335-4ffa-b760-a8469091e303/public_url)
+[📄 Descargar PDF](URL_AQUI_PDF_ESSENTIALS)  
+[<img src="URL_AQUI_IMG_ESSENTIALS" width="180">](https://www.credly.com/badges/42ef0e90-a335-4ffa-b760-a8469091e303/public_url)
+
+---
 
 ### **AWS Serverless**
-[<img src="URL_AQUI_AWS_SERVERLESS" width="180">](https://www.credly.com/badges/70111ecd-f762-4e01-8bb6-3939bddec46b/public_url)
+[📄 Descargar PDF](URL_AQUI_PDF_SERVERLESS)  
+[<img src="URL_AQUI_IMG_SERVERLESS" width="180">](https://www.credly.com/badges/70111ecd-f762-4e01-8bb6-3939bddec46b/public_url)
 
 </div>
-
-*(Reemplazá `URL_AQUI_...` por la URL de tus PNG una vez subidos al repo.)*
 
 ---
 
@@ -83,11 +84,7 @@ I combine **UX Research**, **UI Design**, **Frontend Architecture**, and **Cloud
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DakotaB75&theme=violet-pink)](https://git.io/streak-stats)
-
-![Dakota GitHub Stats](https://github-readme-stats.vercel.app/api?username=DakotaB75&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DakotaB75&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DakotaB75&theme=violet-pink&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2)](https://git.io/streak-stats)
 
 </div>
 
@@ -96,22 +93,21 @@ I combine **UX Research**, **UI Design**, **Frontend Architecture**, and **Cloud
 ## 🎓 Certifications Summary
 
 - **AWS Cloud Essentials**  
-  Covers foundational cloud concepts, architecture, services, security, and cloud economics.  
+  Foundational cloud concepts, architecture, shared responsibility, pricing, and cloud readiness.  
   **[View Certificate](https://www.credly.com/badges/42ef0e90-a335-4ffa-b760-a8469091e303/public_url)**
 
 - **AWS Serverless**  
-  Demonstrates understanding of serverless architectures, Lambda, API Gateway, DynamoDB and cloud-native design.  
+  AWS Lambda, API Gateway, DynamoDB, event-driven architectures, and cloud-native design.  
   **[View Certificate](https://www.credly.com/badges/70111ecd-f762-4e01-8bb6-3939bddec46b/public_url)**
 
 ---
 
 ## 🚀 Goals for 2025
 
-- Build fully scalable AWS-powered projects  
-- Strengthen cloud-native architecture & serverless workflow  
-- Improve CI/CD skills with GitHub Actions  
-- Grow in UX research & accessibility standards  
-- Become a reference in frontend + UX + cloud in the community  
+- Fortalecer la **arquitectura nativa de la nube** y el **flujo de trabajo sin servidor**  
+- Mejorar habilidades de **CI/CD con GitHub Actions**  
+- Crecer en **investigación UX y estándares de accesibilidad**  
+- Convertirme en un **referente en frontend, UX y Cloud** dentro de la comunidad  
 
 ---
 
@@ -125,6 +121,6 @@ https://www.linkedin.com/in/dakota-bazan-a89a25312/
 🌐 **Portfolio:**  
 https://dakotab75.github.io/MiPortafolioAWS/
 
-💬 I’m open to collaborations in **frontend**, **cloud**, **UX**, and **product design**.
+💬 Available for collaborations in **frontend**, **cloud**, **UX**, and **product design**.
 
 </div>
