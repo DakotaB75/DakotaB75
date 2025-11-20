@@ -84,7 +84,7 @@ Mi enfoque combina **UX Research**, **Frontend Architecture**, **UI Design**, y 
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DakotaB75&theme=violet-pink&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DakotaB75&theme=dark&ring=bf00ff&fire=bf00ff&currStreakLabel=bf00ff&stroke=7a00cc&sideLabels=bf00ff&dates=9b59ff)](https://git.io/streak-stats)
 
 </div>
 
