@@ -148,6 +148,8 @@ Mi enfoque combina **UX Research**, **Frontend Architecture**, **UI Design**, y 
 </div>
 
 ---
+
+
 ## 🎓 Oficial Badges AWS
 
 <div align="center">
@@ -155,21 +157,18 @@ Mi enfoque combina **UX Research**, **Frontend Architecture**, **UI Design**, y 
 <table>
   <tr>
     <td align="center" width="300">
-      <img src="https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/badge1.png" width="180" 
-      style="border-radius: 12px; box-shadow: 0 0 12px rgba(138, 43, 226, 0.6);" alt="AWS Cloud Essentials"/>
-      <br><br>
-      <b>AWS Cloud Essentials</b><br>
+      <img src="https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/badge1.png" width="180"
+        style="border-radius: 12px; box-shadow: 0 0 12px rgba(138, 43, 226, 0.6);" alt="AWS Cloud Essentials"/><br><br>
+      <strong>AWS Cloud Essentials</strong><br>
       <sub>Foundational cloud concepts, architecture, shared responsibility, pricing, and readiness.</sub><br><br>
-      <a href="https://www.credly.com/badges/42ef0e90-a335-4ffa-b760-a8469091e303/public_url"><b>View Credential</b></a>
+      <a href="https://www.credly.com/badges/42ef0e90-a335-4ffa-b760-a8469091e303/public_url"><strong>View Credential</strong></a>
     </td>
-
     <td align="center" width="300">
-      <img src="https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/badge2.png" width="180" 
-      style="border-radius: 12px; box-shadow: 0 0 12px rgba(138, 43, 226, 0.6);" alt="AWS Serverless"/>
-      <br><br>
-      <b>AWS Serverless</b><br>
+      <img src="https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/badge2.png" width="180"
+        style="border-radius: 12px; box-shadow: 0 0 12px rgba(138, 43, 226, 0.6);" alt="AWS Serverless"/><br><br>
+      <strong>AWS Serverless</strong><br>
       <sub>AWS Lambda, API Gateway, DynamoDB, event-driven architectures & cloud-native design.</sub><br><br>
-      <a href="https://www.credly.com/badges/70111ecd-f762-4e01-8bb6-3939bddec46b/public_url"><b>View Credential</b></a>
+      <a href="https://www.credly.com/badges/70111ecd-f762-4e01-8bb6-3939bddec46b/public_url"><strong>View Credential</strong></a>
     </td>
   </tr>
 </table>
@@ -186,6 +185,8 @@ Mi enfoque combina **UX Research**, **Frontend Architecture**, **UI Design**, y 
 - Convertirme en un **referente en frontend, UX y Cloud** dentro de la comunidad  
 
 ---
+
+
 ## 📬 Let's Connect
 
 <div align="center" style="margin-top: 20px;">
@@ -195,15 +196,14 @@ style="
   display:inline-block;
   padding:12px 22px;
   margin:8px;
-  background:#1f2937;
-  color:#ffffff;
+  background:#6D28D9;
+  color:#ffffff !important;
   font-weight:600;
   border-radius:10px;
   text-decoration:none;
-  border:1px solid #4b5563;
-  transition:0.3s;
+  border:1px solid #4C1D95;
 ">
-🔗 LinkedIn
+ LinkedIn
 </a>
 
 <a href="https://dakotab75.github.io/MiPortafolioAWS/" target="_blank" 
@@ -211,15 +211,14 @@ style="
   display:inline-block;
   padding:12px 22px;
   margin:8px;
-  background:#1f2937;
-  color:#ffffff;
+  background:#6D28D9;
+  color:#ffffff !important;
   font-weight:600;
   border-radius:10px;
   text-decoration:none;
-  border:1px solid #4b5563;
-  transition:0.3s;
+  border:1px solid #4C1D95;
 ">
-🌐 Portfolio
+ Portfolio
 </a>
 
 <a href="mailto:dakotabazan75@gmail.com"
@@ -227,15 +226,14 @@ style="
   display:inline-block;
   padding:12px 22px;
   margin:8px;
-  background:#1f2937;
-  color:#ffffff;
+  background:#6D28D9;
+  color:#ffffff !important;
   font-weight:600;
   border-radius:10px;
   text-decoration:none;
-  border:1px solid #4b5563;
-  transition:0.3s;
+  border:1px solid #4C1D95;
 ">
-📧 Email Me
+ Email Me
 </a>
 
 <p style="color:#d1d5db; margin-top:15px;">
@@ -243,4 +241,5 @@ style="
 </p>
 
 </div>
+
 
