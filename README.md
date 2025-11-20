@@ -221,7 +221,7 @@ style="
  Portfolio
 </a>
 
-<a href="mailto:dakotabazan75@gmail.com"
+<a href="mailto:dakota.amazonwebservices@gmail.com"
 style="
   display:inline-block;
   padding:12px 22px;
