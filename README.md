@@ -119,7 +119,7 @@ Mi enfoque combina **UX Research**, **Frontend Architecture**, **UI Design**, y 
 
 ---
 
-### **AWS Cloud Essentials**
+### **AWS Cloud **
 [📄 Descargar PDF](https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/DevOps_Avanzado.pdf)
 
 ---
