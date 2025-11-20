@@ -12,10 +12,9 @@
 
 I'm a **Frontend Developer**, **UX Specialist**, and **AWS Cloud Developer** with a strong passion for building beautiful, functional, and high-quality digital experiences.
 
-Actualmente también desempeño un rol de **guía y mentora para estudiantes de Teclab**, ayudando a futuros desarrolladores a crecer, mejorar y construir proyectos sólidos con visión profesional.
+I currently also serve as a guide and mentor for Teclab students, helping future developers grow, improve, and build solid, professionally-driven projects.
 
-Mi enfoque combina **UX Research**, **Frontend Architecture**, **UI Design**, y conocimientos en **Cloud Computing**.
-
+My approach combines UX Research, Frontend Architecture, UI Design, and knowledge in Cloud Computing.
 ---
 ## 🛠 Tech Stack & Expertise
 
@@ -179,62 +178,29 @@ Mi enfoque combina **UX Research**, **Frontend Architecture**, **UI Design**, y 
 
 ## 🚀 Goals for 2025
 
-- Fortalecer la **arquitectura nativa de la nube** y el **flujo de trabajo sin servidor**  
-- Mejorar habilidades de **CI/CD con GitHub Actions**  
-- Crecer en **investigación UX y estándares de accesibilidad**  
-- Convertirme en un **referente en frontend, UX y Cloud** dentro de la comunidad  
+- Strengthen cloud-native architecture and serverless workflows
+
+- Improve CI/CD skills with GitHub Actions
+
+- Grow in UX research and accessibility standards
+
+- Become a reference point in Frontend, UX, and Cloud within the community
 
 ---
 
 
 ## 📬 Let's Connect
 
-<div align="center" style="margin-top: 20px;">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/dakota-bazan-a89a25312/" target="_blank" 
-style="
-  display:inline-block;
-  padding:12px 22px;
-  margin:8px;
-  background:#6D28D9;
-  color:#ffffff !important;
-  font-weight:600;
-  border-radius:10px;
-  text-decoration:none;
-  border:1px solid #4C1D95;
-">
- LinkedIn
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23C084FC?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/dakota-bazan-a89a25312/)
 
-<a href="https://dakotab75.github.io/MiPortafolioAWS/" target="_blank" 
-style="
-  display:inline-block;
-  padding:12px 22px;
-  margin:8px;
-  background:#6D28D9;
-  color:#ffffff !important;
-  font-weight:600;
-  border-radius:10px;
-  text-decoration:none;
-  border:1px solid #4C1D95;
-">
- Portfolio
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-%238A2BE2?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://dakotab75.github.io/MiPortafolioAWS/)
 
-<a href="mailto:dakota.amazonwebservices@gmail.com"
-style="
-  display:inline-block;
-  padding:12px 22px;
-  margin:8px;
-  background:#6D28D9;
-  color:#ffffff !important;
-  font-weight:600;
-  border-radius:10px;
-  text-decoration:none;
-  border:1px solid #4C1D95;
-">
- Email Me
-</a>
+[![Email](https://img.shields.io/badge/Email%20Me-%239D4EDD?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:dakota.amazonwebservices@gmail.com)
+
+</div>
+
 
 <p style="color:#d1d5db; margin-top:15px;">
 💬 Open to collaborations in <b>Frontend</b>, <b>Cloud</b>, <b>UX</b> and <b>Product Design</b>.
