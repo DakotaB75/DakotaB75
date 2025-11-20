@@ -113,28 +113,29 @@ Mi enfoque combina **UX Research**, **Frontend Architecture**, **UI Design**, y 
 </div>
 
 ---
-## ☁️ AWS Cloud Certifications (PDF Ready)
+## ☁️ AWS Cloud Certifications
 
 <div align="center">
 
 ---
 
-### **AWS Cloud **
+### **Advanced Testing Practices Using AWS DevOps Tools**
 [📄 Descargar PDF](https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/DevOps_Avanzado.pdf)
 
 ---
 
-### **AWS IAM – Identity & Access Management**
+### **Deep Dive with Security: AWS Identity and Access Management (IAM)**
 [📄 Descargar PDF](https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/IAM%20AWS.pdf)
 
 ---
 
-### **Building Language Models on AWS (Serverless & AI)**
+### **Building Language Models on AWS**
 [📄 Descargar PDF](https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/Modelo_AWS.pdf)
 
 ---
 
 </div>
+
 
 ---
 
@@ -159,7 +160,7 @@ Mi enfoque combina **UX Research**, **Frontend Architecture**, **UI Design**, y 
       <br><br>
       <b>AWS Cloud Essentials</b><br>
       <sub>Foundational cloud concepts, architecture, shared responsibility, pricing, and readiness.</sub><br><br>
-      <a href="https://www.credly.com/badges/42ef0e90-a335-4ffa-b760-a8469091e303/public_url"><b>View Certificate</b></a>
+      <a href="https://www.credly.com/badges/42ef0e90-a335-4ffa-b760-a8469091e303/public_url"><b>View Credential</b></a>
     </td>
 
     <td align="center" width="300">
@@ -168,7 +169,7 @@ Mi enfoque combina **UX Research**, **Frontend Architecture**, **UI Design**, y 
       <br><br>
       <b>AWS Serverless</b><br>
       <sub>AWS Lambda, API Gateway, DynamoDB, event-driven architectures & cloud-native design.</sub><br><br>
-      <a href="https://www.credly.com/badges/70111ecd-f762-4e01-8bb6-3939bddec46b/public_url"><b>View Certificate</b></a>
+      <a href="https://www.credly.com/badges/70111ecd-f762-4e01-8bb6-3939bddec46b/public_url"><b>View Credential</b></a>
     </td>
   </tr>
 </table>
