@@ -28,7 +28,7 @@ My approach combines UX Research, Frontend Architecture, UI Design, and knowledg
       <sub><b>React</b></sub>
     </td>
     <td align="center" width="200">
-      <img src="https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/12.png" width="160" alt="Tailwind"/><br>
+      <img src="https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/12.png" width="160" alt="Tailwind CSS"/><br>
       <sub><b>Tailwind CSS</b></sub>
     </td>
     <td align="center" width="200">
