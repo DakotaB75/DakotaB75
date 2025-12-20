@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-I'm a **Frontend Developer**, **UX Specialist**, and **AWS Cloud Developer** with a strong passion for building beautiful, functional, and high-quality digital experiences.
+I'm a **Frontend Developer**, **UX Specialist**, and **AWS Cloud Developer** **Open-source contributor – Microsoft ecosystem.**
 
 I currently also serve as a guide and mentor for Teclab students, helping future developers grow, improve, and build solid, professionally-driven projects.
 
