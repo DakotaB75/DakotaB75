@@ -176,16 +176,16 @@ My approach combines UX Research, Frontend Architecture, UI Design, and knowledg
 
 ---
 
-## 🚀 Goals for 2025
+## 🚀 Goals for 2026
 
-- Strengthen cloud-native architecture and serverless workflows
-
-- Improve CI/CD skills with GitHub Actions
-
-- Grow in UX research and accessibility standards
-
-- Become a reference point in Frontend, UX, and Cloud within the community
-
+- **AI-Native Architecture:** Bridging the gap between cloud infra and LLMs to build scalable, production-ready AI solutions for **highly competitive ecosystems**.
+  
+- **DevSecOps at Enterprise Scale:** Implementing security-first pipelines tailored for **High-Compliance industries** and global standards, leveraging [GitHub Advanced Security](https://github.com).
+  
+- **Agentic UX Design:** Engineering next-gen interfaces where [WCAG 2.2 Accessibility](https://www.w3.org) meets Human-AI collaboration for inclusive digital products.
+  
+- **T-Shaped Engineer:** Leveraging my [Microsoft Open Source](https://github.com) and [AWS Cloud](https://aws.amazon.com) background to lead cross-functional, **Tier-1 engineering teams**.
+  
 ---
 
 
