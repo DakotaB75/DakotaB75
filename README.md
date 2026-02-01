@@ -148,43 +148,15 @@ My approach combines UX Research, Frontend Architecture, UI Design, and knowledg
 
 ---
 
-
-## 🎓 Oficial Badges AWS
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="300">
-      <img src="https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/badge1.png" width="180"
-        style="border-radius: 12px; box-shadow: 0 0 12px rgba(138, 43, 226, 0.6);" alt="AWS Cloud Essentials"/><br><br>
-      <strong>AWS Cloud Essentials</strong><br>
-      <sub>Foundational cloud concepts, architecture, shared responsibility, pricing, and readiness.</sub><br><br>
-      <a href="https://www.credly.com/badges/42ef0e90-a335-4ffa-b760-a8469091e303/public_url"><strong>View Credential</strong></a>
-    </td>
-    <td align="center" width="300">
-      <img src="https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/badge2.png" width="180"
-        style="border-radius: 12px; box-shadow: 0 0 12px rgba(138, 43, 226, 0.6);" alt="AWS Serverless"/><br><br>
-      <strong>AWS Serverless</strong><br>
-      <sub>AWS Lambda, API Gateway, DynamoDB, event-driven architectures & cloud-native design.</sub><br><br>
-      <a href="https://www.credly.com/badges/70111ecd-f762-4e01-8bb6-3939bddec46b/public_url"><strong>View Credential</strong></a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## 🚀 Goals for 2026
 
 - **AI-Native Architecture:** Bridging the gap between cloud infra and LLMs to build scalable, production-ready AI solutions for **highly competitive ecosystems**.
   
-- **DevSecOps at Enterprise Scale:** Implementing security-first pipelines tailored for **High-Compliance industries** and global standards, leveraging [GitHub Advanced Security](https://github.com).
+- **DevSecOps at Enterprise Scale:** Implementing security-first pipelines tailored for **High-Compliance industries** and global standards, leveraging [GitHub Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security).
   
-- **Agentic UX Design:** Engineering next-gen interfaces where [WCAG 2.2 Accessibility](https://www.w3.org) meets Human-AI collaboration for inclusive digital products.
+- **Agentic UX Design:** Engineering next-gen interfaces where [WCAG 2.2 Accessibility](https://www.w3.org/TR/w3c-vision/#vision-org) meets Human-AI collaboration for inclusive digital products.
   
-- **T-Shaped Engineer:** Leveraging my [Microsoft Open Source](https://github.com) and [AWS Cloud](https://aws.amazon.com) background to lead cross-functional, **Tier-1 engineering teams**.
+- **T-Shaped Engineer:** Leveraging my [Microsoft Open Source](https://github.com/microsoft) and [AWS Cloud](https://github.com/aws) background to lead cross-functional, **Tier-1 engineering teams**.
   
 ---
 
