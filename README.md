@@ -1,4 +1,4 @@
-![Header Wave](https://camo.githubusercontent.com/f45cac5fdd6b545e290b7817920b12f174c7cb3d6420fb6d12afb17e85e2bca9/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d3132302673656374696f6e3d666f6f74657226636f6c6f723d303a3635364246372c3130303a38413242453226666f6e74436f6c6f723d666666666666)
+![Header Wave](https://capsule-render.vercel.app/api?type=waving&height=140&section=header&color=0:2b0a3d,50:4b1366,100:7b2cbf)
 
 <h1 align="center">Hey there, I'm Dakota Bazan! 💜</h1>
 
@@ -11,6 +11,12 @@
 ---
 
 [![Profile Views](https://camo.githubusercontent.com/2c4b2004050069a8eb4aedc9b99323205f88df7eaf5ebc290b5898e7f8e9ef2d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73756e6e79706174656c6c267374796c653d666f722d7468652d626164676526636f6c6f723d366634326331)](https://github.com/DakotaB75)
+
+<img
+  alt="followers"
+  title="Follow me on GitHub"
+  src="https://custom-icon-badges.demolab.com/github/followers/DakotaB75?color=7b2cbf&labelColor=2b0a3d&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"
+/>
 
 ---
 
@@ -26,19 +32,45 @@ Focused on defining technical standards for **Tier-1 Engineering teams**, mentor
 
 ## 🛠️ Strategic Tech Stack
 
-| Category | High-Impact Technologies |
-| :--- | :--- |
-| **Cloud & Infra** | **AWS (ECS, IAM, Bedrock)**, Azure (AKS), Docker, GitHub Actions |
-| **Frontend Core** | **React (Enterprise Architecture)**, TypeScript, Next.js, Tailwind CSS |
-| **Security & DevOps** | **CodeQL**, Secret Management, Automated Testing (Playwright / Cypress) |
-| **AI & Data** | **LLM Integration (RAG)**, Vector Databases, PostgreSQL, Redis |
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>High-Impact Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Cloud & Infra</b></td>
+      <td>AWS (ECS, IAM, Bedrock), Azure (AKS), Docker, GitHub Actions</td>
+    </tr>
+    <tr>
+      <td><b>Frontend Core</b></td>
+      <td>React (Enterprise Architecture), TypeScript, Next.js, Tailwind CSS</td>
+    </tr>
+    <tr>
+      <td><b>Security & DevOps</b></td>
+      <td>CodeQL, Secret Management, Automated Testing (Playwright / Cypress)</td>
+    </tr>
+    <tr>
+      <td><b>AI & Data</b></td>
+      <td>LLM Integration (RAG), Vector Databases, PostgreSQL, Redis</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ---
 
 ## ☁️ Cloud & Open Source Footprint
 
 - **Microsoft Ecosystem:** Contributor to technical documentation and developer tooling, optimizing **Developer Experience (DX)** for global maintainers.
+  
 - **AWS Specialist:** Certified in **Generative AI (Building Language Models)**, Security (IAM), and Advanced DevOps Testing Practices.
+  
 - **Engineering Leadership:** Mentoring technical talent in building professionally-driven, scalable architectures.
 
 ---
@@ -78,4 +110,4 @@ Focused on defining technical standards for **Tier-1 Engineering teams**, mentor
 
 *Open to high-impact collaborations in **Frontend Architecture**, **Cloud-Native Systems**, and **Product Strategy**.*
 
-![Footer Wave](https://camo.githubusercontent.com/f45cac5fdd6b545e290b7817920b12f174c7cb3d6420fb6d12afb17e85e2bca9/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d3132302673656374696f6e3d666f6f74657226636f6c6f723d303a3635364246372c3130303a38413242453226666f6e74436f6c6f723d666666666666)
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7b2cbf,100:2b0a3d)
