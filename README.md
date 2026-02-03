@@ -1,7 +1,5 @@
 ![Header Wave](https://capsule-render.vercel.app/api?type=waving&height=140&section=header&color=0:2b0a3d,50:4b1366,100:7b2cbf)
-
 <h1 align="center">Hey there, I'm Dakota Bazan! 💜</h1>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=A020F0&center=true&vCenter=true&width=720&lines=Cloud-Native+Solutions+Architect;Platform+Engineer;AWS+Cloud+Specialist;Open+Source+Contributor)](https://git.io/typing-svg)
@@ -11,20 +9,13 @@
 ---
 
 <div align="center">
-  
   <img src="https://img.shields.io/badge/Profile%20Views-3,458-7b2cbf?style=for-the-badge" />
-  
-<img
-  alt="followers"
-  title="Follow me on GitHub"
-  src="https://custom-icon-badges.demolab.com/github/followers/DakotaB75?color=7b2cbf&labelColor=2b0a3d&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"
-/>
-
+  <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/DakotaB75?color=7b2cbf&labelColor=2b0a3d&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
 </div>
 
 ---
 
-## 🌟 Professional Profile
+## Professional Profile
 **Developer Experience Engineer | Microsoft Open Source Contributor | AWS Cloud Specialist**
 
 Engineering at the intersection of **Cloud-Native Infrastructure** and **Modern Frontend Architecture**.  
@@ -34,7 +25,7 @@ Focused on defining technical standards for **Tier-1 Engineering teams**, mentor
 
 ---
 
-## 🛠️ Strategic Tech Stack
+## Strategic Tech Stack
 
 <div align="center">
 
@@ -73,17 +64,17 @@ Focused on defining technical standards for **Tier-1 Engineering teams**, mentor
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DakotaB75&theme=dark&hide_border=true&ring=7b2cbf&fire=7b2cbf&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=bf9cff&sideLabels=bf9cff&dates=9b59ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DakotaB75&theme=dark&hide_border=true&ring=7b2cbf&fire=7b2cbf&currStreakLabel=bf9cff&sideLabels=bf9cff&dates=9b59ff&cache_seconds=1800)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🚀 Goals for 2026
+## Goals for 2026
 
 - **AI-Native Architecture:** Bridging cloud infrastructure and LLMs to deliver scalable, production-ready AI systems for **highly competitive ecosystems**.
 - **DevSecOps at Enterprise Scale:** Designing security-first pipelines for **high-compliance industries**, leveraging GitHub Advanced Security.
@@ -92,7 +83,7 @@ Focused on defining technical standards for **Tier-1 Engineering teams**, mentor
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 <div align="center">
 
