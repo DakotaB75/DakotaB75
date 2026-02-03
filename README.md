@@ -11,8 +11,9 @@
 ---
 
 <div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=DakotaB75&style=for-the-badge&color=7b2cbf&label=PROFILE+VIEWS)](https://github.com/DakotaB75)
+  
+  <img src="https://img.shields.io/badge/Profile%20Views-3,458-7b2cbf?style=for-the-badge" />
+  
 <img
   alt="followers"
   title="Follow me on GitHub"
@@ -76,7 +77,7 @@ Focused on defining technical standards for **Tier-1 Engineering teams**, mentor
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DakotaB75&theme=buefy-dark&hide_border=true&ring=7b2cbf&fire=7b2cbf&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=bf9cff&sideLabels=bf9cff&dates=9b59ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DakotaB75&theme=dark&hide_border=true&ring=7b2cbf&fire=7b2cbf&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=bf9cff&sideLabels=bf9cff&dates=9b59ff)](https://git.io/streak-stats)
 
 </div>
 
