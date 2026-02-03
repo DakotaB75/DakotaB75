@@ -4,20 +4,20 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=A020F0&center=true&vCenter=true&width=700&lines=Frontend+Software+Engineer;UX+Specialist;AWS+Cloud+Developer;Web+Designer+%26+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com)](https://git.io/typing-svg)lines=Cloud-Native+Solutions+Architect;Platform+Engineer;AWS+Cloud+Specialist;Open+Source+Contributor
 
 </div>
 
 ---
+<div align="center">
 
-[![Profile Views](https://camo.githubusercontent.com/2c4b2004050069a8eb4aedc9b99323205f88df7eaf5ebc290b5898e7f8e9ef2d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73756e6e79706174656c6c267374796c653d666f722d7468652d626164676526636f6c6f723d366634326331)](https://github.com/DakotaB75)
-
+[![Profile Views](https://komarev.com/ghpvc/?username=DakotaB75&style=for-the-badge&color=7b2cbf)](https://github.com/DakotaB75)
 <img
   alt="followers"
   title="Follow me on GitHub"
-  src="https://custom-icon-badges.demolab.com/github/followers/DakotaB75?color=7b2cbf&labelColor=2b0a3d&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"
-/>
+  src="https://custom-icon-badges.demolab.com/github/followers/DakotaB75?color=7b2cbf&labelColor=2b0a3d&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
 
+</div>
 ---
 
 ## 🌟 Professional Profile
@@ -79,9 +79,10 @@ Focused on defining technical standards for **Tier-1 Engineering teams**, mentor
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DakotaB75&theme=dark&ring=bf00ff&fire=bf00ff&currStreakLabel=bf00ff&stroke=7a00cc&sideLabels=bf00ff&dates=9b59ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DakotaB75&theme=dark&hide_border=true&ring=7b2cbf&fire=9d4edd&currStreakLabel=c77dff&sideLabels=c77dff&dates=b892ff&stroke=2b0a3d)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DakotaB75&theme=highcontrast&ring=bf00ff&fire=bf00ff&currStreakLabel=bf00ff&stroke=7a00cc&sideLabels=bf00ff&dates=9b59ff)](https://git.io/streak-stats)
+</div>
+
 
 </div>
 
@@ -90,8 +91,11 @@ Focused on defining technical standards for **Tier-1 Engineering teams**, mentor
 ## 🚀 Goals for 2026
 
 - **AI-Native Architecture:** Bridging cloud infrastructure and LLMs to deliver scalable, production-ready AI systems for **highly competitive ecosystems**.
+  
 - **DevSecOps at Enterprise Scale:** Designing security-first pipelines for **high-compliance industries**, leveraging GitHub Advanced Security.
+  
 - **Agentic UX Design:** Engineering next-generation interfaces where **WCAG 2.2 accessibility** meets Human-AI collaboration.
+  
 - **T-Shaped Engineer:** Leveraging **Microsoft Open Source** and **AWS Cloud** experience to lead cross-functional, **Tier-1 engineering teams**.
 
 ---
