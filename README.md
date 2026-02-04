@@ -1,4 +1,4 @@
-![Header Wave](https://capsule-render.vercel.app/api?type=waving&height=140&section=header&color=0:2b0a3d,50:4b1366,100:7b2cbf)
+![Header Wave](https://capsule-render.vercel.app/api?type=waving&height=140&section=header&color=0:2b0a3d%2C50:4b1366%2C100:7b2cbf)
 <h1 align="center">Hey there, I'm Dakota Bazan! 💜</h1>
 <div align="center">
 
@@ -96,5 +96,4 @@ Focused on defining technical standards for **Tier-1 Engineering teams**, mentor
 ---
 
 *Open to high-impact collaborations in **Frontend Architecture**, **Cloud-Native Systems**, and **Product Strategy**.*
-
-![Footer Wave](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7b2cbf,100:2b0a3d)
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7b2cbf%2C100:2b0a3d)
