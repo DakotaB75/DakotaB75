@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-3,458-7b2cbf?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Profile%20Views-3,709-7b2cbf?style=for-the-badge" />
   <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/DakotaB75?color=7b2cbf&labelColor=2b0a3d&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
 </div>
 
