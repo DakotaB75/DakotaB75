@@ -76,10 +76,10 @@ Focused on defining technical standards for **Tier-1 Engineering teams**, mentor
 
 ## Goals for 2026
 
-- **AI-Native Architecture & Advocacy:** Bridging cloud infrastructure and LLMs to deliver scalable AI systems, while leading technical discourse as an official voice for the Spanish-speaking Microsoft community**.
-- **DevSecOps at Enterprise Scale:**Designing security-first pipelines for high-compliance industries, leveraging GitHub Advanced Security and Microsoft’s secure cloud framework.
+- **AI-Native Architecture & Advocacy:** Bridging cloud infrastructure and LLMs to deliver scalable AI systems, while leading technical discourse as an official voice for the Spanish-speaking Microsoft community.
+- **DevSecOps at Enterprise Scale:** Designing security-first pipelines for high-compliance industries, leveraging GitHub Advanced Security and Microsoft’s secure cloud framework.
 - **Agentic UX & Technical Communication:** Engineering next-generation WCAG 2.2 interfaces and mentoring the next wave of engineers through the Microsoft Speaker Hub.
-- **Strategic Technical Leadership:** Leveraging Microsoft & AWS expertise to lead Tier-1 teams, transitioning from a T-Shaped Engineer to a Community-Recognized Authority in digital transformation**.
+- **Strategic Technical Leadership:** Leveraging Microsoft & AWS expertise to lead Tier-1 teams, transitioning from a T-Shaped Engineer to a community-recognized authority in digital transformation.
 
 ---
 
