@@ -16,10 +16,10 @@
 ---
 
 ## Professional Profile
-**Cloud Engineer | AWS & DevOps | Open-source Contributor**
+**Developer Experience Engineer | Microsoft Open Source Contributor | AWS Cloud Specialist**
 
 Engineering at the intersection of **Cloud-Native Infrastructure** and **Modern Frontend Architecture**.  
-Focused on hands-on AWS cloud experimentation, DevOps workflows and open-source documentation. I build and document reproducible cloud labs while contributing to the developer community through practical learning resources.
+As an active contributor to the *Microsoft Open Source ecosystem* and a specialist in *AWS Cloud*, I architect production-grade systems focused on scalability, developer velocity, and high-compliance security.
 
 Focused on defining technical standards for **Tier-1 Engineering teams**, mentoring global talent, and building AI-driven developer experiences.
 
