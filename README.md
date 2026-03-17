@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-3,709-7b2cbf?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Profile%20Views-4,502-7b2cbf?style=for-the-badge" />
   <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/DakotaB75?color=7b2cbf&labelColor=2b0a3d&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
 </div>
 
@@ -76,10 +76,10 @@ Focused on defining technical standards for **Tier-1 Engineering teams**, mentor
 
 ## Goals for 2026
 
-- **AI-Native Architecture:** Bridging cloud infrastructure and LLMs to deliver scalable, production-ready AI systems for **highly competitive ecosystems**.
-- **DevSecOps at Enterprise Scale:** Designing security-first pipelines for **high-compliance industries**, leveraging GitHub Advanced Security.
-- **Agentic UX Design:** Engineering next-generation interfaces where **WCAG 2.2 accessibility** meets Human-AI collaboration.
-- **T-Shaped Engineer:** Leveraging **Microsoft Open Source** and **AWS Cloud** experience to lead cross-functional, **Tier-1 engineering teams**.
+- **AI-Native Architecture & Advocacy:** Bridging cloud infrastructure and LLMs to deliver scalable AI systems, while leading technical discourse as an official voice for the Spanish-speaking Microsoft community**.
+- **DevSecOps at Enterprise Scale:**Designing security-first pipelines for high-compliance industries, leveraging GitHub Advanced Security and Microsoft’s secure cloud framework.
+- **Agentic UX & Technical Communication:** Engineering next-generation WCAG 2.2 interfaces and mentoring the next wave of engineers through the Microsoft Speaker Hub.
+- **Strategic Technical Leadership:** Leveraging Microsoft & AWS expertise to lead Tier-1 teams, transitioning from a T-Shaped Engineer to a Community-Recognized Authority in digital transformation**.
 
 ---
 
