@@ -82,11 +82,14 @@ My work operates at the intersection of Cloud Infrastructure, AI-driven developm
 
 ## ☁️ Microsoft Ecosystem
 
--- **Active contributor to Microsoft-oriented open-source** projects and technical documentation, improving Developer Experience and accessibility for global developer communities.
+- **Open Source Contribution**  
+  Active contributor to Microsoft-oriented open-source projects and technical documentation, improving Developer Experience and accessibility for global developer communities.
 
--- **Cloud Engineering:** Designing multi-cloud architectures with a Microsoft-first approach, integrating Azure services with enterprise-grade DevSecOps practices.
+- **Cloud Engineering**  
+  Designing multi-cloud architectures with a Microsoft-first approach, integrating Azure services with enterprise-grade DevSecOps practices.
 
--- **Community & Knowledge Sharing:** Supporting developer growth through technical mentorship, architectural guidance, and knowledge dissemination aligned with Microsoft's community-driven culture.
+- **Community & Knowledge Sharing**  
+  Supporting developer growth through technical mentorship, architectural guidance, and knowledge dissemination aligned with Microsoft's community-driven culture.
 
 ---
 
@@ -102,10 +105,10 @@ My work operates at the intersection of Cloud Infrastructure, AI-driven developm
 
 ## 2026 Technical Direction
 
-• Advancing AI-Native Cloud Architecture within the Microsoft ecosystem
-• Promoting secure DevSecOps practices using GitHub Advanced Security
-• Expanding technical advocacy across Spanish-speaking developer communities
-• Contributing to scalable developer education through the Microsoft Speaker Hub
+- Advancing AI-Native cloud architecture within the Microsoft ecosystem
+- Promoting secure DevSecOps practices using GitHub Advanced Security
+- Expanding technical advocacy across Spanish-speaking developer communities
+- Contributing to scalable developer education through the Microsoft Speaker Hub
 
 ---
 
