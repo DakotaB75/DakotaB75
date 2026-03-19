@@ -2,7 +2,7 @@
 <h1 align="center">Hey there, I'm Dakota Bazan! 💜</h1>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=A020F0&center=true&vCenter=true&width=720&lines=Cloud-Native+Solutions+Architect;Platform+Engineer;AWS+Cloud+Specialist;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=0078D4&center=true&vCenter=true&width=720&lines=Cloud+Engineer;Microsoft+Ecosystem+Advocate;Azure+Infrastructure+%26+Security;Open+Source+Contributor)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,39 +16,63 @@
 ---
 
 ## Professional Profile
-**Developer Experience Engineer | Microsoft Open Source Contributor | AWS Cloud Specialist**
+**Cloud Engineer | Microsoft Ecosystem Advocate | Open Source Contributor**
 
-Engineering at the intersection of **Cloud-Native Infrastructure** and **Modern Frontend Architecture**.  
-As an active contributor to the *Microsoft Open Source ecosystem* and a specialist in *AWS Cloud*, I architect production-grade systems focused on scalability, developer velocity, and high-compliance security.
+Engineering cloud-native platforms and developer ecosystems within the Microsoft Cloud landscape.
 
-Focused on defining technical standards for **Tier-1 Engineering teams**, mentoring global talent, and building AI-driven developer experiences.
+I contribute to open-source initiatives and developer tooling across the Microsoft ecosystem, focusing on scalable Azure-based architectures, Developer Experience, and secure-by-design engineering practices.
+
+My work operates at the intersection of Cloud Infrastructure, AI-driven development workflows, and modern application platforms — enabling engineering teams to ship reliable, compliant, and high-performance systems at scale.
 
 ---
 
 ## Strategic Tech Stack
 
 <div align="center">
-
+  
 <table>
   <tr>
     <th>Category</th>
-    <th>High-Impact Technologies</th>
+    <th>Technologies</th>
   </tr>
+
   <tr>
-    <td><b>Cloud & Infra</b></td>
-    <td>AWS (ECS, IAM, Bedrock), Azure (AKS), Docker, GitHub Actions</td>
+    <td><b>Microsoft Cloud & Platform</b></td>
+    <td>
+      Azure (AKS, Entra ID, Cloud-Native Architecture), GitHub Actions,
+      GitHub Advanced Security, DevSecOps Pipelines
+    </td>
   </tr>
+
   <tr>
-    <td><b>Frontend Core</b></td>
-    <td>React (Enterprise Architecture), TypeScript, Next.js, Tailwind CSS</td>
+    <td><b>Cloud-Native Infrastructure</b></td>
+    <td>
+      Docker, Kubernetes, Infrastructure Automation,
+      AWS (ECS, IAM, Bedrock – interoperability experience)
+    </td>
   </tr>
+
   <tr>
-    <td><b>Security & DevOps</b></td>
-    <td>CodeQL, Secret Management, Automated Testing (Playwright / Cypress)</td>
+    <td><b>Frontend Architecture</b></td>
+    <td>
+      React (Enterprise Architecture), TypeScript, Next.js, Tailwind CSS
+    </td>
   </tr>
+
   <tr>
-    <td><b>AI & Data</b></td>
-    <td>LLM Integration (RAG), Vector Databases, PostgreSQL, Redis</td>
+    <td><b>Security & DevSecOps</b></td>
+    <td>
+      CodeQL, Secure Secret Management,
+      Automated Testing (Playwright, Cypress)
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>AI & Data Engineering</b></td>
+    <td>
+      LLM Integration (RAG Systems), Vector Databases,
+      PostgreSQL, Redis
+    </td>
   </tr>
 </table>
 
@@ -56,11 +80,13 @@ Focused on defining technical standards for **Tier-1 Engineering teams**, mentor
 
 ---
 
-## ☁️ Cloud & Open Source Footprint
+## ☁️ Microsoft Ecosystem
 
-- **Microsoft Ecosystem:** Contributor to technical documentation and developer tooling, optimizing **Developer Experience (DX)** for global maintainers.
-- **AWS Specialist:** Certified in **Generative AI (Building Language Models)**, Security (IAM), and Advanced DevOps Testing Practices.
-- **Engineering Leadership:** Mentoring technical talent in building professionally-driven, scalable architectures.
+-- **Active contributor to Microsoft-oriented open-source** projects and technical documentation, improving Developer Experience and accessibility for global developer communities.
+
+-- **Cloud Engineering:** Designing multi-cloud architectures with a Microsoft-first approach, integrating Azure services with enterprise-grade DevSecOps practices.
+
+-- **Community & Knowledge Sharing:** Supporting developer growth through technical mentorship, architectural guidance, and knowledge dissemination aligned with Microsoft's community-driven culture.
 
 ---
 
@@ -74,12 +100,12 @@ Focused on defining technical standards for **Tier-1 Engineering teams**, mentor
 
 ---
 
-## Goals for 2026
+## 2026 Technical Direction
 
-- **AI-Native Architecture & Advocacy:** Bridging cloud infrastructure and LLMs to deliver scalable AI systems, while leading technical discourse as an official voice for the Spanish-speaking Microsoft community.
-- **DevSecOps at Enterprise Scale:** Designing security-first pipelines for high-compliance industries, leveraging GitHub Advanced Security and Microsoft’s secure cloud framework.
-- **Agentic UX & Technical Communication:** Engineering next-generation WCAG 2.2 interfaces and mentoring the next wave of engineers through the Microsoft Speaker Hub.
-- **Strategic Technical Leadership:** Leveraging Microsoft & AWS expertise to lead Tier-1 teams, transitioning from a T-Shaped Engineer to a community-recognized authority in digital transformation.
+• Advancing AI-Native Cloud Architecture within the Microsoft ecosystem
+• Promoting secure DevSecOps practices using GitHub Advanced Security
+• Expanding technical advocacy across Spanish-speaking developer communities
+• Contributing to scalable developer education through the Microsoft Speaker Hub
 
 ---
 
