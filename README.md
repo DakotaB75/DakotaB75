@@ -6,14 +6,12 @@
 
 </div>
 
----
 
 <div align="center">
   <img src="https://img.shields.io/badge/Profile%20Views-4,502-7b2cbf?style=for-the-badge" />
   <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/DakotaB75?color=7b2cbf&labelColor=2b0a3d&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
 </div>
 
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/Portada.png" width="100%"/>
