@@ -15,6 +15,12 @@
 
 ---
 
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DakotaB75/DakotaB75/main/Portada.png" width="600"/>
+</p>
+---
+
 ## Professional Profile
 **Cloud Engineer | Microsoft Ecosystem Advocate | Open Source Contributor**
 
