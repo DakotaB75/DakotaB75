@@ -2,7 +2,7 @@
 <h1 align="center">👏🏻 Hi, I'm Dakota.</h1>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=0078D4&center=true&vCenter=true&width=1000&lines=Cloud+Security+Engineer;DevOps+Engineer;Microsoft+Speaker+(ES);Azure+Portal+Daily+User;Microsoft+365+Trainer+%26+IT+Consultant)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=0078D4&center=true&vCenter=true&width=1000&lines=Cloud+Security;DevOps+Engineer;Microsoft+Speaker+(ES);Azure;Microsoft+365+%26+IT+Consultant)](https://git.io/typing-svg)
 
 </div>
 
