@@ -70,5 +70,3 @@ Providing technical mentorship, corporate training, workshops, and knowledge-sha
 
 ---
 
-*Open to high-impact collaborations in **Frontend Architecture**, **Cloud-Native Systems**, and **Product Strategy**.*
-![Footer Wave](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7b2cbf%2C100:2b0a3d)
